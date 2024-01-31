@@ -18,10 +18,12 @@
 
 ### `npm install --save @types/styled-components -D --force`
 
-## react-router-dom
+## react-hook-form e yup
 
-### `npm install react-router-dom --force`
+### `npm install react-hook-form --force`
 
-### `npm install --save @types/react-router-dom -D --force`
+### `npm i yup --force`
 
+### `npm i @types/yup -D --force`
 
+### `npm install @hookform/resolvers yup --force`
